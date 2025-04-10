@@ -43,13 +43,12 @@ body {
     color: #222;
     cursor: pointer;
     outline: none;
+    transition: 0.4s;
+
 }
 
 #btn:hover {
     background-color: #222;
-    border: 2px solid #222;
-    border-radius: 5px;
     color: white;
-    transition: 0.4s;
 }
 
